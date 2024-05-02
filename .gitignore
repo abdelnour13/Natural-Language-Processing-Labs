@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+__pycache__
+TP-1/data
+TP-2/data
+TP-2/glove.6B
+TP-3/data
+TP-3/weights/*.pt
+!TP-3/weights/best_weights.pt
+!TP-3/weights/epoch-99.pt
