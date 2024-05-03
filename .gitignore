@@ -7,3 +7,6 @@ TP-3/data
 TP-3/weights/*.pt
 !TP-3/weights/best_weights.pt
 !TP-3/weights/epoch-99.pt
+TP-4/24
+TP-4/144
+TP-4/data
